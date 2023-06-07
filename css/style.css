@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1{
+    color: white;
+}
+
+#message_play{
+    background-color: rgb(44, 43, 43);
+    border-radius: 25px;
+    border: 5px solid darkred;
+    height: 10vw;
+    width: 50vw;
+}
+p{
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+input{
+    height: 5vw;
+    width: 20vw;
+    border-radius: 25px;
+    border: 5px solid white;
+}
+
+button{
+    height: 2vw;
+    width: 10vw;
+    border-radius: 25px;
+}
+
+main{
+    position: relative;
+    top: 100px;
+}
